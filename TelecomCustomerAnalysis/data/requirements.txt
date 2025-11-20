@@ -1,0 +1,8 @@
+pandas
+numpy 
+matplotlib
+pointbiserialr
+chi2_contingency
+seaborn
+plotly.graph_objects
+display
