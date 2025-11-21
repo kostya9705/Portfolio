@@ -1,8 +1,7 @@
 pandas
 numpy 
 matplotlib
-pointbiserialr
-chi2_contingency
+scipy
 seaborn
-plotly.graph_objects
+plotly
 display
