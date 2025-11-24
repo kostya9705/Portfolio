@@ -12,7 +12,7 @@ TelecomCustomerAnalysis/
 ├── requirements.txt        # Зависимости проекта
 ├── data/
 │   └── telco_customer_data.csv
-└── README.md              # Этот файл
+└── README.md              
 ```
 
 ## Цели анализа
