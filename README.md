@@ -23,3 +23,14 @@
 - Подготовка данных для прогнозирования
 
 **Стек:** pandas, matplotlib, statsmodels, seaborn 
+
+### 3. SQLBankTransactionsAnalysis
+Анализ банковских транзакций клиентов c последующим созданием базы данных
+
+**Задачи:**
+- Загрузка данных. Иcпользовался датасет с платформы [kaggle](https://www.kaggle.com/datasets/radistaleks/synthetic-bank-transactions?resource=download&select=transactions.csv)
+- Создание скриптов для создание базы данных. Релизовано 2-мя способами (SQlite и pandas)
+- Создание ETL процесса для формирования аналитической витрины
+- Визулизация витрины в виде минидашборда
+
+**Стек:** pandas, matplotlib, sqlite, plotly, sqlalchemy 
